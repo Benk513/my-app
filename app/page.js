@@ -7,6 +7,8 @@ export default function Home() {
         <h1 className="text-3xl font-bold">Welcome to homepage !</h1>
 
         <Link href="/about">About</Link>
+
+        <Link href="/users">Users</Link>
        
       </div>
     </main>
